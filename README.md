@@ -9,10 +9,10 @@
 <h2>效果图展示</h2>
 
 <h3>效果图1</h3>
-<p><img src="file:///Users/ailishi/Desktop/346D2308-E0E8-4A59-86E3-33294560EFBB.png"></p>
+<p><img src="file:///Users/ailishi/Desktop/346D2308-E0E8-4A59-86E3-33294560EFBB.png"/></p>
 
 <h3>效果图2</h3>
-<p><img src="file:///Users/ailishi/Desktop/A92A34A2-1C29-4138-8525-9BEA796EEF49.png"></p>
+<p><img src="file:///Users/ailishi/Desktop/A92A34A2-1C29-4138-8525-9BEA796EEF49.png"/></p>
 <h3>效果图3</h3>
 <p><img src="file:///Users/ailishi/Desktop/CBF51BA1-0143-4424-B3DE-83EC23169CB0.png"/></p>
 <h3>效果图4</h3>
