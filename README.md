@@ -21,13 +21,14 @@
 <p><img src="file:///Users/ailishi/Desktop/5AE7CA22-B4B5-4FE7-820A-C7C816A1F8F6.png"/></p>
 
 <h2>使用方法</h2>
-<p>self.alertView = SSAlertView.init(title: "温馨提示", message: "请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意", cancelButtonTitle: "取消", otherButtonTitles: ["按钮1", "按钮2"])</p>
-        self.alertView?.mode = .Success
-        self.alertView?.leaveMode = .Top
-        self.alertView?.clickIndex = {(index: NSInteger) in
-            print("您点击的按钮下标是\(index)")
-        }
-        self.alertView?.show()
+<p>self.alertView = SSAlertView.init(title: "温馨提示", message: "请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意", cancelButtonTitle: "取消", otherButtonTitles: ["按钮1", "按钮2"])<br/>
+        self.alertView?.mode = .Success<br/>
+        self.alertView?.leaveMode = .Top<br/>
+        self.alertView?.clickIndex = {(index: NSInteger) in<br/>
+            print("您点击的按钮下标是\(index)")<br/>
+        }<br/>
+        self.alertView?.show()<br/>
+        </p>
 </body>
 
 </html>
