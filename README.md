@@ -9,16 +9,16 @@
 <h2>效果图展示</h2>
 
 <h3>效果图1</h3>
-<p><img src="/Users/ailishi/Desktop/346D2308-E0E8-4A59-86E3-33294560EFBB.png"/></p>
+<p><img src="file:///Users/ailishi/Desktop/346D2308-E0E8-4A59-86E3-33294560EFBB.png"></p>
 
 <h3>效果图2</h3>
-<p><img src="/Users/ailishi/Desktop/A92A34A2-1C29-4138-8525-9BEA796EEF49.png"/></p>
+<p><img src="file:///Users/ailishi/Desktop/A92A34A2-1C29-4138-8525-9BEA796EEF49.png"></p>
 <h3>效果图3</h3>
-<p><img src="/Users/ailishi/Desktop/CBF51BA1-0143-4424-B3DE-83EC23169CB0.png"/></p>
+<p><img src="file:///Users/ailishi/Desktop/CBF51BA1-0143-4424-B3DE-83EC23169CB0.png"/></p>
 <h3>效果图4</h3>
-<p><img src="/Users/ailishi/Desktop/58B3726A-799A-4C43-B67B-6B52F6D8087E.png"/></p>
+<p><img src="file:///Users/ailishi/Desktop/58B3726A-799A-4C43-B67B-6B52F6D8087E.png"/></p>
 <h3>效果图5</h3>
-<p><img src="/Users/ailishi/Desktop/5AE7CA22-B4B5-4FE7-820A-C7C816A1F8F6.png"/></p>
+<p><img src="file:///Users/ailishi/Desktop/5AE7CA22-B4B5-4FE7-820A-C7C816A1F8F6.png"/></p>
 
 <h2>使用方法</h2>
 <p>self.alertView = SSAlertView.init(title: "温馨提示", message: "请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意请注意", cancelButtonTitle: "取消", otherButtonTitles: ["按钮1", "按钮2"])</p>
